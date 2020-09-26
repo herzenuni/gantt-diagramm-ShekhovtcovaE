@@ -1,11 +1,12 @@
 ## Диаграмма 
 
-[<img src="https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg" alt="gantt" width="1000"/>](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
+[<img src="https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg" alt="gantt" width="3000"/>](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
 
 ## Риски разработки сайта для РГПУ им. А. И. Герцена
+
 1. Желания заказчика могут измениться, придется переделывать ТЗ
 2. Заказчик может не одобрить дизайн сайта
 2. Могут возникнуть трудности при верстке и реализации функционала по задуманнуму проекту
-3. Может потребоваться перенос информации в другую бузу данных
+3. Может потребоваться перенос данных со старого сайта в другую бузу данных
 4. Во время тестирование может быть выявлено большое количество багов
 5. Сервера могут не выдержать нагрузки
