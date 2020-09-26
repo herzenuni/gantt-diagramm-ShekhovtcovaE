@@ -1,5 +1,5 @@
 ## Диаграмма 
-[![](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
+[![gantt](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg =1000)
 
 ## Риски разработки сайта для РГПУ им. А. И. Герцена
 1. Желания заказчика могут измениться, придется переделывать ТЗ
