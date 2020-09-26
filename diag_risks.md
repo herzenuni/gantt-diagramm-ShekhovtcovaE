@@ -1,6 +1,6 @@
 ## Диаграмма 
 
-[<img src="https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg" alt="gantt" width="4000px" height="230px"/>](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
+[<img src="https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg" alt="gantt" width="4000px" />](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
 
 ## Риски разработки сайта для РГПУ им. А. И. Герцена
 
