@@ -1,5 +1,5 @@
-## Диаграмма
-![](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
+## Диаграмма для РГПУ им. А. И. Герцена
+[![](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)](https://github.com/herzenuni/gantt-diagramm-ShekhovtcovaE/blob/master/gantt_pic.jpg)
 
 ## Риски
 1. Заказчик может изменить ТЗ позже
